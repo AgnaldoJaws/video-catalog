@@ -1,0 +1,535 @@
+[2021-01-12 02:45:45] local.ERROR: Command "migreate" is not defined.
+
+Did you mean one of these?
+    migrate
+    migrate:fresh
+    migrate:install
+    migrate:refresh
+    migrate:reset
+    migrate:rollback
+    migrate:status {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"migreate\" is not defined.
+
+Did you mean one of these?
+    migrate
+    migrate:fresh
+    migrate:install
+    migrate:refresh
+    migrate:reset
+    migrate:rollback
+    migrate:status at /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Application.php:676)
+[stacktrace]
+#0 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Application.php(237): Symfony\\Component\\Console\\Application->find('migreate')
+#1 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Application.php(149): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Console/Application.php(93): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2021-01-12 02:46:06] local.ERROR: Command "make:migrate" is not defined.
+
+Did you mean one of these?
+    make:channel
+    make:command
+    make:controller
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:provider
+    make:request
+    make:resource
+    make:rule
+    make:seeder
+    make:test {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"make:migrate\" is not defined.
+
+Did you mean one of these?
+    make:channel
+    make:command
+    make:controller
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:provider
+    make:request
+    make:resource
+    make:rule
+    make:seeder
+    make:test at /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Application.php:676)
+[stacktrace]
+#0 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Application.php(237): Symfony\\Component\\Console\\Application->find('make:migrate')
+#1 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Application.php(149): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Console/Application.php(93): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2021-01-12 02:46:19] local.ERROR: Command "make:mifration" is not defined.
+
+Did you mean one of these?
+    make:channel
+    make:command
+    make:controller
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:provider
+    make:request
+    make:resource
+    make:rule
+    make:seeder
+    make:test {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"make:mifration\" is not defined.
+
+Did you mean one of these?
+    make:channel
+    make:command
+    make:controller
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:provider
+    make:request
+    make:resource
+    make:rule
+    make:seeder
+    make:test at /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Application.php:676)
+[stacktrace]
+#0 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Application.php(237): Symfony\\Component\\Console\\Application->find('make:mifration')
+#1 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Application.php(149): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Console/Application.php(93): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2021-01-12 02:49:25] local.ERROR: Unable to locate factory with name [default] [App\Models\Genre]. {"exception":"[object] (InvalidArgumentException(code: 0): Unable to locate factory with name [default] [App\\Models\\Genre]. at /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/FactoryBuilder.php:282)
+[stacktrace]
+#0 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/FactoryBuilder.php(305): Illuminate\\Database\\Eloquent\\FactoryBuilder->getRawAttributes(Array)
+#1 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php(123): Illuminate\\Database\\Eloquent\\FactoryBuilder->Illuminate\\Database\\Eloquent\\{closure}()
+#2 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/FactoryBuilder.php(313): Illuminate\\Database\\Eloquent\\Model::unguarded(Object(Closure))
+#3 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/FactoryBuilder.php(242): Illuminate\\Database\\Eloquent\\FactoryBuilder->makeInstance(Array)
+#4 [internal function]: Illuminate\\Database\\Eloquent\\FactoryBuilder->Illuminate\\Database\\Eloquent\\{closure}(1)
+#5 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/FactoryBuilder.php(243): array_map(Object(Closure), Array)
+#6 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/FactoryBuilder.php(178): Illuminate\\Database\\Eloquent\\FactoryBuilder->make(Array)
+#7 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/database/seeds/GenreSeeder.php(14): Illuminate\\Database\\Eloquent\\FactoryBuilder->create()
+#8 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): GenreSeeder->run()
+#9 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Util.php(37): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#10 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#11 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#12 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(590): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#13 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(134): Illuminate\\Container\\Container->call(Array)
+#14 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(48): Illuminate\\Database\\Seeder->__invoke()
+#15 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/database/seeds/DatabaseSeeder.php(15): Illuminate\\Database\\Seeder->call('GenreSeeder')
+#16 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): DatabaseSeeder->run()
+#17 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Util.php(37): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#18 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#19 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#20 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(590): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#21 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(134): Illuminate\\Container\\Container->call(Array)
+#22 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php(63): Illuminate\\Database\\Seeder->__invoke()
+#23 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php(129): Illuminate\\Database\\Console\\Seeds\\SeedCommand->Illuminate\\Database\\Console\\Seeds\\{closure}()
+#24 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php(64): Illuminate\\Database\\Eloquent\\Model::unguarded(Object(Closure))
+#25 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Database\\Console\\Seeds\\SeedCommand->handle()
+#26 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Util.php(37): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#27 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#28 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#29 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(590): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#30 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Console/Command.php(134): Illuminate\\Container\\Container->call(Array)
+#31 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Command/Command.php(255): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#32 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Console/Command.php(121): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#33 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Console/Concerns/CallsCommands.php(56): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#34 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Console/Concerns/CallsCommands.php(28): Illuminate\\Console\\Command->runCommand('db:seed', Array, Object(Illuminate\\Console\\OutputStyle))
+#35 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Console/Migrations/MigrateCommand.php(78): Illuminate\\Console\\Command->call('db:seed', Array)
+#36 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Database\\Console\\Migrations\\MigrateCommand->handle()
+#37 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Util.php(37): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#38 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#39 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#40 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(590): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#41 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Console/Command.php(134): Illuminate\\Container\\Container->call(Array)
+#42 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Command/Command.php(255): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#43 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Console/Command.php(121): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#44 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Application.php(1009): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#45 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Application.php(273): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Database\\Console\\Migrations\\MigrateCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#46 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Application.php(149): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#47 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Console/Application.php(93): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#48 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#49 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#50 {main}
+"} 
+[2021-01-12 02:50:33] local.ERROR: Command "migration" is not defined.
+
+Did you mean one of these?
+    make:migration
+    migrate
+    migrate:fresh
+    migrate:install
+    migrate:refresh
+    migrate:reset
+    migrate:rollback
+    migrate:status {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"migration\" is not defined.
+
+Did you mean one of these?
+    make:migration
+    migrate
+    migrate:fresh
+    migrate:install
+    migrate:refresh
+    migrate:reset
+    migrate:rollback
+    migrate:status at /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Application.php:676)
+[stacktrace]
+#0 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Application.php(237): Symfony\\Component\\Console\\Application->find('migration')
+#1 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Application.php(149): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Console/Application.php(93): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2021-01-12 02:53:53] local.ERROR: Unable to locate factory with name [default] [App\Models\Genre]. {"exception":"[object] (InvalidArgumentException(code: 0): Unable to locate factory with name [default] [App\\Models\\Genre]. at /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/FactoryBuilder.php:282)
+[stacktrace]
+#0 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/FactoryBuilder.php(305): Illuminate\\Database\\Eloquent\\FactoryBuilder->getRawAttributes(Array)
+#1 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php(123): Illuminate\\Database\\Eloquent\\FactoryBuilder->Illuminate\\Database\\Eloquent\\{closure}()
+#2 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/FactoryBuilder.php(313): Illuminate\\Database\\Eloquent\\Model::unguarded(Object(Closure))
+#3 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/FactoryBuilder.php(242): Illuminate\\Database\\Eloquent\\FactoryBuilder->makeInstance(Array)
+#4 [internal function]: Illuminate\\Database\\Eloquent\\FactoryBuilder->Illuminate\\Database\\Eloquent\\{closure}(1)
+#5 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/FactoryBuilder.php(243): array_map(Object(Closure), Array)
+#6 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/FactoryBuilder.php(178): Illuminate\\Database\\Eloquent\\FactoryBuilder->make(Array)
+#7 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/database/seeds/GenreSeeder.php(14): Illuminate\\Database\\Eloquent\\FactoryBuilder->create()
+#8 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): GenreSeeder->run()
+#9 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Util.php(37): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#10 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#11 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#12 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(590): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#13 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(134): Illuminate\\Container\\Container->call(Array)
+#14 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(48): Illuminate\\Database\\Seeder->__invoke()
+#15 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/database/seeds/DatabaseSeeder.php(15): Illuminate\\Database\\Seeder->call('GenreSeeder')
+#16 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): DatabaseSeeder->run()
+#17 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Util.php(37): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#18 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#19 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#20 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(590): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#21 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(134): Illuminate\\Container\\Container->call(Array)
+#22 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php(63): Illuminate\\Database\\Seeder->__invoke()
+#23 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php(129): Illuminate\\Database\\Console\\Seeds\\SeedCommand->Illuminate\\Database\\Console\\Seeds\\{closure}()
+#24 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php(64): Illuminate\\Database\\Eloquent\\Model::unguarded(Object(Closure))
+#25 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Database\\Console\\Seeds\\SeedCommand->handle()
+#26 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Util.php(37): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#27 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#28 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#29 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(590): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#30 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Console/Command.php(134): Illuminate\\Container\\Container->call(Array)
+#31 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Command/Command.php(255): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#32 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Console/Command.php(121): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#33 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Console/Concerns/CallsCommands.php(56): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#34 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Console/Concerns/CallsCommands.php(28): Illuminate\\Console\\Command->runCommand('db:seed', Array, Object(Illuminate\\Console\\OutputStyle))
+#35 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Console/Migrations/FreshCommand.php(79): Illuminate\\Console\\Command->call('db:seed', Array)
+#36 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Console/Migrations/FreshCommand.php(56): Illuminate\\Database\\Console\\Migrations\\FreshCommand->runSeeder(NULL)
+#37 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Database\\Console\\Migrations\\FreshCommand->handle()
+#38 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Util.php(37): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#39 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#40 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#41 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(590): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#42 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Console/Command.php(134): Illuminate\\Container\\Container->call(Array)
+#43 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Command/Command.php(255): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#44 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Console/Command.php(121): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#45 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Application.php(1009): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#46 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Application.php(273): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Database\\Console\\Migrations\\FreshCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#47 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Application.php(149): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#48 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Console/Application.php(93): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#49 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#50 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#51 {main}
+"} 
+[2021-01-12 02:58:46] local.ERROR: Unable to locate factory with name [default] [App\Models\Genre]. {"exception":"[object] (InvalidArgumentException(code: 0): Unable to locate factory with name [default] [App\\Models\\Genre]. at /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/FactoryBuilder.php:282)
+[stacktrace]
+#0 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/FactoryBuilder.php(305): Illuminate\\Database\\Eloquent\\FactoryBuilder->getRawAttributes(Array)
+#1 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php(123): Illuminate\\Database\\Eloquent\\FactoryBuilder->Illuminate\\Database\\Eloquent\\{closure}()
+#2 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/FactoryBuilder.php(313): Illuminate\\Database\\Eloquent\\Model::unguarded(Object(Closure))
+#3 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/FactoryBuilder.php(242): Illuminate\\Database\\Eloquent\\FactoryBuilder->makeInstance(Array)
+#4 [internal function]: Illuminate\\Database\\Eloquent\\FactoryBuilder->Illuminate\\Database\\Eloquent\\{closure}(1)
+#5 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/FactoryBuilder.php(243): array_map(Object(Closure), Array)
+#6 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/FactoryBuilder.php(178): Illuminate\\Database\\Eloquent\\FactoryBuilder->make(Array)
+#7 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/database/seeds/GenreSeeder.php(14): Illuminate\\Database\\Eloquent\\FactoryBuilder->create()
+#8 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): GenreSeeder->run()
+#9 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Util.php(37): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#10 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#11 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#12 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(590): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#13 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(134): Illuminate\\Container\\Container->call(Array)
+#14 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(48): Illuminate\\Database\\Seeder->__invoke()
+#15 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/database/seeds/DatabaseSeeder.php(15): Illuminate\\Database\\Seeder->call('GenreSeeder')
+#16 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): DatabaseSeeder->run()
+#17 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Util.php(37): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#18 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#19 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#20 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(590): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#21 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(134): Illuminate\\Container\\Container->call(Array)
+#22 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php(63): Illuminate\\Database\\Seeder->__invoke()
+#23 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php(129): Illuminate\\Database\\Console\\Seeds\\SeedCommand->Illuminate\\Database\\Console\\Seeds\\{closure}()
+#24 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php(64): Illuminate\\Database\\Eloquent\\Model::unguarded(Object(Closure))
+#25 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Database\\Console\\Seeds\\SeedCommand->handle()
+#26 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Util.php(37): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#27 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#28 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#29 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(590): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#30 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Console/Command.php(134): Illuminate\\Container\\Container->call(Array)
+#31 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Command/Command.php(255): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#32 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Console/Command.php(121): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#33 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Console/Concerns/CallsCommands.php(56): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#34 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Console/Concerns/CallsCommands.php(28): Illuminate\\Console\\Command->runCommand('db:seed', Array, Object(Illuminate\\Console\\OutputStyle))
+#35 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Console/Migrations/FreshCommand.php(79): Illuminate\\Console\\Command->call('db:seed', Array)
+#36 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Database/Console/Migrations/FreshCommand.php(56): Illuminate\\Database\\Console\\Migrations\\FreshCommand->runSeeder(NULL)
+#37 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Database\\Console\\Migrations\\FreshCommand->handle()
+#38 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Util.php(37): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#39 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#40 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#41 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(590): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#42 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Console/Command.php(134): Illuminate\\Container\\Container->call(Array)
+#43 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Command/Command.php(255): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#44 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Console/Command.php(121): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#45 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Application.php(1009): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#46 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Application.php(273): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Database\\Console\\Migrations\\FreshCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#47 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/symfony/console/Application.php(149): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#48 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Console/Application.php(93): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#49 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#50 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#51 {main}
+"} 
+[2021-01-12 03:10:39] local.ERROR: Target class [App\Http\Controllers\Api\GenresController] does not exist. {"exception":"[object] (Illuminate\\Contracts\\Container\\BindingResolutionException(code: 0): Target class [App\\Http\\Controllers\\Api\\GenresController] does not exist. at /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php:805)
+[stacktrace]
+#0 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\\Container\\Container->build('App\\\\Http\\\\Contro...')
+#1 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\\Container\\Container->resolve('App\\\\Http\\\\Contro...', Array, true)
+#2 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\\Foundation\\Application->resolve('App\\\\Http\\\\Contro...', Array)
+#3 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\\Container\\Container->make('App\\\\Http\\\\Contro...', Array)
+#4 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Route.php(233): Illuminate\\Foundation\\Application->make('App\\\\Http\\\\Contro...')
+#5 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Route.php(833): Illuminate\\Routing\\Route->getController()
+#6 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Route.php(794): Illuminate\\Routing\\Route->controllerMiddleware()
+#7 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(694): Illuminate\\Routing\\Route->gatherMiddleware()
+#8 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(674): Illuminate\\Routing\\Router->gatherRouteMiddleware(Object(Illuminate\\Routing\\Route))
+#9 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#10 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#11 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#12 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#13 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#14 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#15 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#16 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#17 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#18 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#19 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#20 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#21 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#22 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#26 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#27 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/public/index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#28 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/server.php(21): require_once('/home/agnaldo/D...')
+#29 {main}
+
+[previous exception] [object] (ReflectionException(code: -1): Class App\\Http\\Controllers\\Api\\GenresController does not exist at /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php:803)
+[stacktrace]
+#0 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('App\\\\Http\\\\Contro...')
+#1 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\\Container\\Container->build('App\\\\Http\\\\Contro...')
+#2 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\\Container\\Container->resolve('App\\\\Http\\\\Contro...', Array, true)
+#3 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\\Foundation\\Application->resolve('App\\\\Http\\\\Contro...', Array)
+#4 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\\Container\\Container->make('App\\\\Http\\\\Contro...', Array)
+#5 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Route.php(233): Illuminate\\Foundation\\Application->make('App\\\\Http\\\\Contro...')
+#6 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Route.php(833): Illuminate\\Routing\\Route->getController()
+#7 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Route.php(794): Illuminate\\Routing\\Route->controllerMiddleware()
+#8 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(694): Illuminate\\Routing\\Route->gatherMiddleware()
+#9 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(674): Illuminate\\Routing\\Router->gatherRouteMiddleware(Object(Illuminate\\Routing\\Route))
+#10 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#11 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#12 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#13 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#14 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#15 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#17 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#18 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#19 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#23 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#24 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#25 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#26 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#27 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#28 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/public/index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#29 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/server.php(21): require_once('/home/agnaldo/D...')
+#30 {main}
+"} 
+[2021-01-12 03:11:46] local.ERROR: Target class [App\Http\Controllers\Api\GenreController] does not exist. {"exception":"[object] (Illuminate\\Contracts\\Container\\BindingResolutionException(code: 0): Target class [App\\Http\\Controllers\\Api\\GenreController] does not exist. at /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php:805)
+[stacktrace]
+#0 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\\Container\\Container->build('App\\\\Http\\\\Contro...')
+#1 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\\Container\\Container->resolve('App\\\\Http\\\\Contro...', Array, true)
+#2 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\\Foundation\\Application->resolve('App\\\\Http\\\\Contro...', Array)
+#3 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\\Container\\Container->make('App\\\\Http\\\\Contro...', Array)
+#4 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Route.php(233): Illuminate\\Foundation\\Application->make('App\\\\Http\\\\Contro...')
+#5 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Route.php(833): Illuminate\\Routing\\Route->getController()
+#6 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Route.php(794): Illuminate\\Routing\\Route->controllerMiddleware()
+#7 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(694): Illuminate\\Routing\\Route->gatherMiddleware()
+#8 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(674): Illuminate\\Routing\\Router->gatherRouteMiddleware(Object(Illuminate\\Routing\\Route))
+#9 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#10 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#11 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#12 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#13 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#14 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#15 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#16 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#17 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#18 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#19 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#20 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#21 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#22 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#26 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#27 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/public/index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#28 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/server.php(21): require_once('/home/agnaldo/D...')
+#29 {main}
+
+[previous exception] [object] (ReflectionException(code: -1): Class App\\Http\\Controllers\\Api\\GenreController does not exist at /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php:803)
+[stacktrace]
+#0 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('App\\\\Http\\\\Contro...')
+#1 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\\Container\\Container->build('App\\\\Http\\\\Contro...')
+#2 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\\Container\\Container->resolve('App\\\\Http\\\\Contro...', Array, true)
+#3 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\\Foundation\\Application->resolve('App\\\\Http\\\\Contro...', Array)
+#4 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\\Container\\Container->make('App\\\\Http\\\\Contro...', Array)
+#5 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Route.php(233): Illuminate\\Foundation\\Application->make('App\\\\Http\\\\Contro...')
+#6 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Route.php(833): Illuminate\\Routing\\Route->getController()
+#7 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Route.php(794): Illuminate\\Routing\\Route->controllerMiddleware()
+#8 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(694): Illuminate\\Routing\\Route->gatherMiddleware()
+#9 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(674): Illuminate\\Routing\\Router->gatherRouteMiddleware(Object(Illuminate\\Routing\\Route))
+#10 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#11 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#12 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#13 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#14 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#15 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#17 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#18 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#19 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#23 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#24 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#25 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#26 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#27 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#28 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/public/index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#29 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/server.php(21): require_once('/home/agnaldo/D...')
+#30 {main}
+"} 
+[2021-01-12 03:12:09] local.ERROR: Target class [App\Http\Controllers\Api\GenreController] does not exist. {"exception":"[object] (Illuminate\\Contracts\\Container\\BindingResolutionException(code: 0): Target class [App\\Http\\Controllers\\Api\\GenreController] does not exist. at /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php:805)
+[stacktrace]
+#0 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\\Container\\Container->build('App\\\\Http\\\\Contro...')
+#1 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\\Container\\Container->resolve('App\\\\Http\\\\Contro...', Array, true)
+#2 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\\Foundation\\Application->resolve('App\\\\Http\\\\Contro...', Array)
+#3 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\\Container\\Container->make('App\\\\Http\\\\Contro...', Array)
+#4 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Route.php(233): Illuminate\\Foundation\\Application->make('App\\\\Http\\\\Contro...')
+#5 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Route.php(833): Illuminate\\Routing\\Route->getController()
+#6 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Route.php(794): Illuminate\\Routing\\Route->controllerMiddleware()
+#7 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(694): Illuminate\\Routing\\Route->gatherMiddleware()
+#8 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(674): Illuminate\\Routing\\Router->gatherRouteMiddleware(Object(Illuminate\\Routing\\Route))
+#9 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#10 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#11 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#12 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#13 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#14 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#15 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#16 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#17 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#18 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#19 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#20 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#21 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#22 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#26 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#27 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/public/index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#28 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/server.php(21): require_once('/home/agnaldo/D...')
+#29 {main}
+
+[previous exception] [object] (ReflectionException(code: -1): Class App\\Http\\Controllers\\Api\\GenreController does not exist at /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php:803)
+[stacktrace]
+#0 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('App\\\\Http\\\\Contro...')
+#1 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\\Container\\Container->build('App\\\\Http\\\\Contro...')
+#2 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\\Container\\Container->resolve('App\\\\Http\\\\Contro...', Array, true)
+#3 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\\Foundation\\Application->resolve('App\\\\Http\\\\Contro...', Array)
+#4 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\\Container\\Container->make('App\\\\Http\\\\Contro...', Array)
+#5 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Route.php(233): Illuminate\\Foundation\\Application->make('App\\\\Http\\\\Contro...')
+#6 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Route.php(833): Illuminate\\Routing\\Route->getController()
+#7 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Route.php(794): Illuminate\\Routing\\Route->controllerMiddleware()
+#8 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(694): Illuminate\\Routing\\Route->gatherMiddleware()
+#9 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(674): Illuminate\\Routing\\Router->gatherRouteMiddleware(Object(Illuminate\\Routing\\Route))
+#10 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#11 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#12 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#13 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#14 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#15 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#17 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#18 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#19 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#23 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#24 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#25 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#26 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#27 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#28 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/public/index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#29 /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/server.php(21): require_once('/home/agnaldo/D...')
+#30 {main}
+"} 
+[2021-01-12 03:12:25] local.ERROR: Class 'App\Http\Controllers\Api\Controller' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Class 'App\\Http\\Controllers\\Api\\Controller' not found at /home/agnaldo/Documentos/son/fullcicle/laravel-microservice-quickstart/app/Http/Controllers/Api/GenreController.php:9)
+[stacktrace]
+#0 {main}
+"} 
